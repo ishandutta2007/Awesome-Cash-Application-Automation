@@ -58,30 +58,30 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 > 💡 **Open-Source Landscape**: Cash application automation remains one of the least developed open-source categories in enterprise software due to heavy reliance on proprietary ERP connectors, complex OCR remittance models, and bank lockbox parsers. However, strong open-source foundations exist for **bank statement reconciliation**, **ledger tracking**, and **AR follow-up workflows**.
 
-*Projects sorted descending by GitHub star counts.*
+*Projects sorted descending by GitHub Stars_Counts.*
 
-- **[OCA/account-reconcile](https://github.com/OCA/account-reconcile)** [![GitHub stars](https://img.shields.io/github/stars/OCA/account-reconcile?style=social&color=white)](https://github.com/OCA/account-reconcile/stargazers) 🌟
+- **[OCA/account-reconcile](https://github.com/OCA/account-reconcile)** [![GitHub_Stars](https://img.shields.io/github/stars/OCA/account-reconcile?style=social&color=white)](https://github.com/OCA/account-reconcile/stargazers) 🌟
   Official Odoo Community Association suite for **account reconciliation, bank statement import, and automatic invoice matching** within the open-source Odoo ERP framework. Python-based, AGPL-3.0 License.
 
-- **[The-Commit-Company/mint](https://github.com/The-Commit-Company/mint)** [![GitHub stars](https://img.shields.io/github/stars/The-Commit-Company/mint?style=social&color=white)](https://github.com/The-Commit-Company/mint/stargazers) 🍃
+- **[The-Commit-Company/mint](https://github.com/The-Commit-Company/mint)** [![GitHub_Stars](https://img.shields.io/github/stars/The-Commit-Company/mint?style=social&color=white)](https://github.com/The-Commit-Company/mint/stargazers) 🍃
   Open-source **bank reconciliation tool built for ERPNext**. Features visual transaction matching, fuzzy string search algorithms, and automated payment entry creation. Python / Frappe-based, MIT License.
 
-- **[GrottoPress/bill](https://github.com/GrottoPress/bill)** [![GitHub stars](https://img.shields.io/github/stars/GrottoPress/bill?style=social&color=white)](https://github.com/GrottoPress/bill/stargazers) 🧾
+- **[GrottoPress/bill](https://github.com/GrottoPress/bill)** [![GitHub_Stars](https://img.shields.io/github/stars/GrottoPress/bill?style=social&color=white)](https://github.com/GrottoPress/bill/stargazers) 🧾
   Accounts Receivable automation system for the **Lucky framework (Crystal language)**. Includes tools for creating and tracking invoices, receipts, and maintaining an **immutable ledger** of customer transactions.
 
-- **[ReconifyHQ/reconify](https://github.com/ReconifyHQ/reconify)** [![GitHub stars](https://img.shields.io/github/stars/ReconifyHQ/reconify?style=social&color=white)](https://github.com/ReconifyHQ/reconify/stargazers) ⚡
+- **[ReconifyHQ/reconify](https://github.com/ReconifyHQ/reconify)** [![GitHub_Stars](https://img.shields.io/github/stars/ReconifyHQ/reconify?style=social&color=white)](https://github.com/ReconifyHQ/reconify/stargazers) ⚡
   Open-source **reconciliation engine** for matching ledger records against PSP bank statements. Supports CSV, JSON, XLSX, configurable date windows, and fee validation. Go-based CLI and AI agent skills for Cursor and Claude Code.
 
-- **[azaharizaman/nexus-cash-management](https://github.com/azaharizaman/nexus-cash-management)** [![GitHub stars](https://img.shields.io/github/stars/azaharizaman/nexus-cash-management?style=social&color=white)](https://github.com/azaharizaman/nexus-cash-management/stargazers) 🐘
+- **[azaharizaman/nexus-cash-management](https://github.com/azaharizaman/nexus-cash-management)** [![GitHub_Stars](https://img.shields.io/github/stars/azaharizaman/nexus-cash-management?style=social&color=white)](https://github.com/azaharizaman/nexus-cash-management/stargazers) 🐘
   Open-source **cash management & AI-assisted bank reconciliation** package for PHP and Nexus ERP. Automatically matches bank statement transactions to GL entries and invoices.
 
-- **[azaharizaman/nexus](https://github.com/azaharizaman/nexus)** [![GitHub stars](https://img.shields.io/github/stars/azaharizaman/nexus?style=social&color=white)](https://github.com/azaharizaman/nexus/stargazers) ⚙️
+- **[azaharizaman/nexus](https://github.com/azaharizaman/nexus)** [![GitHub_Stars](https://img.shields.io/github/stars/azaharizaman/nexus?style=social&color=white)](https://github.com/azaharizaman/nexus/stargazers) ⚙️
   Open-source **Accounts Receivable module** within Nexus ERP ecosystem. Manages invoice metadata, receipt application tracking (`ar_receipt_id`, `ar_invoice_id`, `amount_applied`), and overdue tracking.
 
-- **[aferryc/yars](https://github.com/aferryc/yars)** [![GitHub stars](https://img.shields.io/github/stars/aferryc/yars?style=social&color=white)](https://github.com/aferryc/yars/stargazers) 🚀
+- **[aferryc/yars](https://github.com/aferryc/yars)** [![GitHub_Stars](https://img.shields.io/github/stars/aferryc/yars?style=social&color=white)](https://github.com/aferryc/yars/stargazers) 🚀
   Open-source **financial reconciliation microservice system** for comparing internal payment records against bank statements. Uses Go, PostgreSQL, and Kafka with web UI dashboard. MIT License.
 
-- **[Akam1123/orvaket](https://github.com/Akam1123/orvaket)** [![GitHub stars](https://img.shields.io/github/stars/Akam1123/orvaket?style=social&color=white)](https://github.com/Akam1123/orvaket/stargazers) 🔒
+- **[Akam1123/orvaket](https://github.com/Akam1123/orvaket)** [![GitHub_Stars](https://img.shields.io/github/stars/Akam1123/orvaket?style=social&color=white)](https://github.com/Akam1123/orvaket/stargazers) 🔒
   Free, **local-first accounts receivable follow-up workspace** for B2B service firms. Imports QuickBooks/Xero AR exports, tracks invoice blockers, and drafts contextual follow-up emails in-browser.
 
 ---
